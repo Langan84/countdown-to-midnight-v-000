@@ -6,7 +6,7 @@ def countdown(counter)
     counter -= 1
     puts "#{counter} SECOND(S)!"
   
-    sleep 1.second 
+    sleep 1.second
 
   end
 end
