@@ -2,7 +2,7 @@
 
 def countdown(x)
   x = 11
-  sleep(5)
+
   x = 11
   while x > 0
     x -= 1
@@ -13,5 +13,6 @@ def countdown(x)
 end
 "HAPPY NEW YEAR!"
 
-#> time = Time.now
-#> sleep 2.seconds until Time.now > time + 10.seconds
+def countdown_with_sleep(countdown)
+  sleep(5)
+enbd
