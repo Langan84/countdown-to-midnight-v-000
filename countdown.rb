@@ -19,4 +19,4 @@ def countdown_with_sleep(x)
     sleep(1)
   end
 end
-"HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
