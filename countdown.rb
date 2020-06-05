@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(x)
-  
+  x = 11
   sleep(5)
   x = 11
   while x > 0
