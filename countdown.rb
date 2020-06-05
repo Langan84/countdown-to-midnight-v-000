@@ -10,7 +10,7 @@ def countdown(counter)
 
   end
 end
-"HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 
 #> time = Time.now
 #> sleep 2.seconds until Time.now > time + 10.seconds
