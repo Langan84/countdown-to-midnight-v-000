@@ -1,7 +1,9 @@
 #write your code here
 
 def countdown(x)
-x = 11
+  time = Time.now
+  sleep(5))
+  x = 11
   while x > 0
     x -= 1
     puts "#{x} SECOND(S)!"
