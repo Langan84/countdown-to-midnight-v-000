@@ -14,5 +14,5 @@ end
 "HAPPY NEW YEAR!"
 
 def countdown_with_sleep(countdown)
-  sleep(5)
+  sleep(5.seconds)
 end
