@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(x)
-  time = Time.now
+  
   sleep(5)
   x = 11
   while x > 0
