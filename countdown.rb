@@ -5,7 +5,6 @@ def countdown(x)
   while x < 0
     counter -= 1
     puts "#{x} SECOND(S)!"
-    time = Time.now
     sleep(1))
 
   end
